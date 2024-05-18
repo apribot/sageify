@@ -8,7 +8,7 @@ sageify
 - set the name to 'sageify' or whatever
 - set the 'url' field to ^http.*youtube.com
 - click the 'regex' checkmark next to it
-- paste the contents of the sageify.js file into "script" textbox
+- paste the contents of the [sageify.js](https://raw.githubusercontent.com/apribot/sageify/main/sageify.js) file into "script" textbox
 - click 'save'
 - reload youtube
 
